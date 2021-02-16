@@ -1,0 +1,8 @@
+export { default as Logo } from './Logo'
+export { default as CentOs } from './CentOs'
+export { default as Ubuntu } from './Ubuntu'
+export { default as DigitalOceanLogo} from './DigitalOceanLogo'
+export { default as AWSLogo} from './AWSLogo'
+export { default as GoogleCloudLogo} from './GoogleCloudLogo'
+export { default as AzureLogo} from './AzureLogo'
+export { default as FedoraLogo} from './FedoraLogo'
